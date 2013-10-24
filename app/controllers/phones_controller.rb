@@ -65,7 +65,7 @@ class PhonesController < ApplicationController
     # Use callbacks to share common setup or constraints between actions.
     def set_phone
 
-       sdsad
+
         @phone = Phone.find(params[:id])
 
     end
