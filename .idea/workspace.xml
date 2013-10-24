@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="phones_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="phones_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/phones_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="6" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.49475524">
+            <state line="66" column="6" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="21" selection-start="579" selection-end="579" vertical-scroll-proportion="0.743007">
               <folding />
             </state>
           </provider>
@@ -44,7 +53,7 @@
       <file leaf-file-name="development.log" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log/development.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="214" column="6" selection-start="8039" selection-end="8039" vertical-scroll-proportion="0.0">
+            <state line="276" column="6" selection-start="10641" selection-end="10641" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -57,6 +66,7 @@
       <list>
         <option value="$PROJECT_DIR$/log/development.log" />
         <option value="$PROJECT_DIR$/app/controllers/phones_controller.rb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -392,7 +402,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/log/development.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="214" column="6" selection-start="8039" selection-end="8039" vertical-scroll-proportion="0.0">
+        <state line="276" column="6" selection-start="10641" selection-end="10641" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -406,7 +416,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/phones_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="6" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.49475524">
+        <state line="66" column="6" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="21" selection-start="579" selection-end="579" vertical-scroll-proportion="0.743007">
           <folding />
         </state>
       </provider>
